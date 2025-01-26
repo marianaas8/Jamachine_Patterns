@@ -13,10 +13,11 @@ Jamachine is an interactive system that combines machine learning, computer visi
    - Download the project files and open the `index.html` file in your browser, or run the project using the [p5.js Web Editor](https://editor.p5js.org/).
 
 2. **Enable Webcam**:  
-   - Ensure that your webcam is enabled, and grant the necessary permissions in your browser.
+   - Ensure that your webcam is enabled and positioned to face a white, writable surface.
 
 3. **Interacting with the System**:  
-   - In the top section of the screen, type 'p' for pop, 'h' for hip-hop, or 'r' for rock to select the genre.
+   - On the white surface, write the characters (letters and numbers) in the designated areas (the squares).  
+   - In the top section of the screen, write 'p' for pop, 'h' for hip-hop, or 'r' for rock to select the genre.
    - In the middle section, write '1', '2', or '3' to choose between different musical samples for bass, drums, lead, and vocals.
    - The system will immediately generate a musical composition based on your selections.
 
